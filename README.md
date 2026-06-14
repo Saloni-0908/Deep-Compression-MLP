@@ -183,8 +183,10 @@ GPU (CUDA) is used automatically if available.
 - [Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding](https://arxiv.org/abs/1510.00149) — Song Han, Huizi Mao, William J. Dally (ICLR 2016, Best Paper Award)
 
 ---
-## Team Members-> SaurabhRaj-110 Saloni-0908
 
+## Team Members - SaurabhRaj-110 & Saloni-0908
+
+---
 ## License
 
 This project is for educational and research purposes.
